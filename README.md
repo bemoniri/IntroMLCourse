@@ -1,6 +1,6 @@
-# IntroMLCourse
+# Intro ML Course - Computer Assignments
 
-This is the repository for my solutions to Introduction to Machine Learning course coumputer assignments at Sharif University of Technology. This course was taught by Prof. Jamal Golestani at the Department of Electrical Engineering.
+This is the repository for my solutions to Introduction to Machine Learning course coumputer assignments at Sharif University of Technology. This course was taught by Prof. Jamal Golestani at the Department of Electrical Engineering. This course was focused on Learning Theory.
 
 For all of the assignments, there exists a PDF report file in Persian.
 
